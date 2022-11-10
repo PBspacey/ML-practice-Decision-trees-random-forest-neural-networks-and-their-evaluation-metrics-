@@ -1,2 +1,2 @@
 # ML-Tutor
-Tutorial jpynb file for ml based on titanic
+Tutorial ipynb file for ml based on titanic
